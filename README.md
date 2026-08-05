@@ -69,6 +69,4 @@ The bank management wants to:
 ## 📷 Dashboard Preview
 
 <img width="507" height="287" alt="image" src="https://github.com/user-attachments/assets/523f728d-b3e7-497c-948e-04080ae71ec4" />
-
-<img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/e9ed2b71-877c-4a69-b57b-62822b1c89f5" />
-
+<img width="486" height="251" alt="image" src="https://github.com/user-attachments/assets/8cb890a1-6895-4e99-b4be-812fbe232f0b" />
